@@ -85,6 +85,7 @@ namespace GithubActionsLab
         public static double Power(string x, string y)
         {
             return Math.Pow(double.Parse(x), double.Parse(y));
+            //Commit to test branch
         }
     }
 
